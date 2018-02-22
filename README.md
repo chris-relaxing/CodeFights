@@ -10,5 +10,5 @@ The Arcade section is a large part of the static practice problems CodeFights pr
 ## How Does CodeFights Work?
 - For each problem, a description is provided, along with a small number of test cases that are visible. There are an equal number of test cases that are hidden from view, which can only be passed if your algorithm is correct. 
 
-
+![alt text](http://bluegalaxy.info/images/cf_shape.jpg)
 
